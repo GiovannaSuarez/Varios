@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ya lo soluciono</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Giovanna Suarez"> 
+    </head>
+    <body>
+        <header><img src="cabecera.jpg"></header> 
+        
+        <section>
+            <h1>
+                Formulario Carga de Datos
+            </h1>
+            <form>
+              <p> Apellido</p>
+                <input type="text">
+              <p> Nombre</p>
+                <input type="text" >
+              <p> Nro de DNI</p>
+                <input type="number" value="numeros">
+              <p> Fecha de Nacimiento</p>
+                <input type="date" >
+              <p> Localidad</p>
+                <input type="text" >
+               <input type="submit">
+              <input type="borrar">
+              </form>
+        </section>
+    </body>
+</html>
